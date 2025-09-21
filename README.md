@@ -98,7 +98,7 @@ To run this project locally, you will need to set up the backend, frontend, and 
     ```
     Create a `.env` file in the `frontend` directory:
     ```
-    VITE_BACKEND_URL=http://localhost:4000
+    VITE_BACKEND_URL=https://outflair-backend.vercel.app/
     ```
     Start the client:
     ```bash
@@ -112,14 +112,14 @@ To run this project locally, you will need to set up the backend, frontend, and 
     ```
     Create a `.env` file in the `admin` directory:
     ```
-    VITE_BACKEND_URL=http://localhost:4000
+    VITE_BACKEND_URL=https://outflair-backend.vercel.app/
     ```
     Start the admin panel:
     ```bash
     npm run dev
     ```
 
-Your e-commerce application should now be running with the frontend on `http://localhost:5173`, the admin panel on `http://localhost:5174`, and the backend server on `http://localhost:4000`.
+Your e-commerce application should now be running with the frontend on `https://outflair-backend.vercel.app/`, the admin panel on `http://localhost:5174`, and the backend server on `https://outflair-backend.vercel.app/`.
 
 ---
 
