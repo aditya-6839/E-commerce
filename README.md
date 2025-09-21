@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Outflair - Full Stack MERN E-commerce Website 🛍️
 
 Welcome to **Outflair**, a comprehensive full-stack e-commerce platform built with the MERN stack. This project features a complete customer-facing storefront and a powerful admin panel for managing products and orders, complete with payment gateway integrations like Stripe and Razorpay.
@@ -145,3 +146,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - Aditya Fulsoundar
 
 Project Link: [https://github.com/aditya-6839/E-commerce](https://github.com/aditya-6839/E-commerce)
+=======
+Something
+>>>>>>> 34a77a8bfe4b7cadf4f57688446f2bcae7168dd7
