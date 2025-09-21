@@ -11,7 +11,7 @@ import PlaceOrder from './Pages/PlaceOrder'
 import Orders from './Pages/Orders'
 import { Navbar } from './Components/Navbar'
 import Footer from './Components/Footer'
-import SearchBar from './Components/SearchBAr'
+import SearchBar from './Components/SearchBar'
 import Verify from './Pages/Verify'
 export default function App() {
   return (
