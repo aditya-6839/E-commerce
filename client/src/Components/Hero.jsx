@@ -6,7 +6,7 @@ export default function Hero() {
   const navigate = useNavigate()
 
   return (
-    <div className="flex flex-col sm:flex-row items-center justify-between bg-white rounded-2xl shadow-md overflow-hidden min-h-[70vh]">
+    <div className="flex flex-col sm:flex-row items-center justify-between bg-white rounded-2xl shadow-md overflow-hidden min-h-[70vh] mt-2">
       
       {/* Left Side */}
       <div className="w-full sm:w-1/2 flex flex-col items-start justify-center px-8 py-12 sm:px-12 h-full">
