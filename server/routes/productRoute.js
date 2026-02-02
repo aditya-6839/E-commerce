@@ -19,7 +19,7 @@ productRouter.post(
 
 
 productRouter.post('/remove', adminAuth, removeProduct)
-productRouter.post('/single', adminAuth, singleProduct)
+productRouter.post('/single', singleProduct)
 productRouter.get('/list', listProducts)
 
 

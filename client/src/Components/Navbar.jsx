@@ -26,7 +26,7 @@ export const Navbar = () => {
   };
 
   return (
-    <div className="flex items-center justify-between py-5 font-medium px-4 sm:px-10 bg-white shadow-md">
+    <div className="flex justify-between items-center py-5 font-medium px-4 sm:px-10 bg-white shadow-md">
       {/* Logo */}
       <Link to="/">
         <h3 className="text-2xl md:text-3xl font-extrabold bg-gradient-to-r from-[#06f7f7] to-[#06858e] bg-clip-text text-transparent tracking-wide">
