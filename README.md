@@ -146,6 +146,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - Aditya Fulsoundar
 
 Project Link: [https://github.com/aditya-6839/E-commerce](https://github.com/aditya-6839/E-commerce)
+Project Guide: [https://roadmap.sh/projects/ecommerce-api](https://roadmap.sh/projects/ecommerce-api)
+
 =======
 Something
 >>>>>>> 34a77a8bfe4b7cadf4f57688446f2bcae7168dd7
